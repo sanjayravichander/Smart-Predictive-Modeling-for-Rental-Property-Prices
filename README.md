@@ -19,10 +19,12 @@ Academic Research: Researchers studying housing markets, real estate economics, 
 Insurance Companies: Insurance companies may incorporate rental price predictions into their risk assessment models for property insurance policies. Accurate rental price estimates help in determining appropriate coverage and premiums.
 
 ## Requirements
-""
+
+```bash
   pip install pandas
   pip install numpy
   pip install matplotlib.pyplot
   pip install plotly
   pip install seaborn
-""
+```
+
